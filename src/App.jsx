@@ -8,12 +8,12 @@ import { Contact } from "./pages/Contact";
 
 export const App = () => {
   return (
-    <Container m={'0 auto'} maxW={'1280px'}border={'1px solid red'}>
+    <Container  >
       <Header />
       <About />
       <Skills />
-      <Portfolio />
-      <Contact />
-    </Container>
+      {/* <Portfolio /> */}
+      {/* <Contact /> */} 
+      </Container>
   );
 };
