@@ -12,7 +12,7 @@ export const App = () => {
       <Header />
       <About />
       <Skills />
-      {/* <Portfolio /> */}
+      <Portfolio />
       {/* <Contact /> */} 
       </Container>
   );
