@@ -13,7 +13,7 @@ export const App = () => {
       <About />
       <Skills />
       <Portfolio />
-      {/* <Contact /> */} 
+      <Contact /> 
       </Container>
   );
 };

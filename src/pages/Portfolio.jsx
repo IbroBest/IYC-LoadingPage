@@ -21,10 +21,6 @@ export const Portfolio = () => {
           <Image w={'940px'} src={idea}/>
           <a style={{fontSize:'20px',borderBottom:'1px solid grey',textAlign:'center'}} href={'https://idea.uz/uz'}>online shop idea.uz </a>
       </Box>
-      <Box display={'flex'}flexDirection={'column'}alignItems={'center'}gap={'20px'}>
-          <Image w={'940px'} src={idea}/>
-          <a style={{fontSize:'20px',borderBottom:'1px solid grey',textAlign:'center'}} href={'https://idea.uz/uz'}>online shop idea.uz </a>
-      </Box>
 
     </Box>
     </Container>
